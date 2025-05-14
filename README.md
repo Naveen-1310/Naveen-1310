@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FRONTEND DEVELOPER from India</h3>
 
 - 🌱 I’m currently learning **Java**
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/naveen palanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveen palanisamy" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/iam_nxvn_offcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_nxvn_offcl" height="30" width="40" /></a>
 </p>
 
@@ -19,8 +20,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveen-1310&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-1310&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="150" alt="languages graph"  />
+  
+  
   <img src="https://github-profile-trophy.vercel.app?username=Naveen-1310&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 ###
