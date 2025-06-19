@@ -15,7 +15,7 @@
 ## Connect with Me  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Office%20Worker%20Light%20Skin%20Tone.png" alt="Office Worker Light Skin Tone" width="40" height="40" />
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveenp-13n?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BibgE4oc8QjOVf8Caqrt%2BoQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/naveenp-13n?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNi3gfkE6QwesapvPxVLWcw%3D%3D" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <a href="https://www.facebook.com/share/1FcVNj9PvF/" target="_blank">
