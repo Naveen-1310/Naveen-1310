@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Naveen P<br>🤖Im Pre-Final Year Student on CSE Dept<br>🌱Currently Learning  Java<br>Im a Front-End Developer🌐<br>
+Im Naveen P<br>🤖Im Pre-Final Year Student on CSE Dept<br>🌱Currently Learning  Java<br>I'm a Front-End Developer🌐<br>
 
 
 ## 🌐 Socials:
